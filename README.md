@@ -9,12 +9,6 @@ A simple, beautiful assignments tracker built with **Vue 3** and **TailwindCSS**
 - 🎉 Get congratulated when you're all caught up (because you deserve it)
 
 ---
-
-## 🔥 Live Demo
-*()*
-
----
-
 ## 👀 Preview
 
 > 🖼️ <img width="1280" alt="Screenshot 2025-06-17 at 10 36 12 AM" src="https://github.com/user-attachments/assets/e96a28c4-c1b4-48ec-8c2c-9831b6b092af" />
